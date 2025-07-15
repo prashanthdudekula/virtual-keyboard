@@ -25,7 +25,7 @@ pip install opencv-python mediapipe pyautogui
 - Run the script
 python gesture_keyboard.py
 
-<img width="1920" height="1080" alt="Screenshot 2025-07-13 122448" src="https://github.com/user-attachments/assets/1d26fc6e-0e89-4d8c-83b1-d4ca8dc36f68" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-15 102326" src="https://github.com/user-attachments/assets/64d35b3e-73a6-4a10-bbc9-2e5e4c37e639" />
 
 
 📂 Output
